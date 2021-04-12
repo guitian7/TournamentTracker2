@@ -56,5 +56,10 @@ namespace TrackerUI
         {
 
         }
+
+        private void tournamentPlayersListBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
