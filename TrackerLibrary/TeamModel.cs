@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace TrackerLibrary
 {
-    public class TeamModel
+    public class TeamModel //Test
     {
+        public int numb;
         public List<PersonModel> TeamMembers { get; set; } = new List<PersonModel>();
         public string TeamName { get; set; }
     }
