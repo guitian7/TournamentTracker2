@@ -9,6 +9,7 @@ namespace TrackerLibrary
     public class TeamModel //Test
     {
         public int numb;
+        public int dos;
         public List<PersonModel> TeamMembers { get; set; } = new List<PersonModel>();
         public string TeamName { get; set; }
     }
